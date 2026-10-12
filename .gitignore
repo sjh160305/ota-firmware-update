@@ -1,0 +1,31 @@
+# 编译输出目录
+Obj/
+Lst/
+build/
+output/
+
+# 编译产物
+*.o
+*.d
+*.elf
+*.bin
+*.ihex
+*.hex
+*.map
+*.asm
+
+# IDE 配置和缓存
+.cache/
+.cdk/
+*.session
+refactoring.db
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+
+# 日志文件
+*.log
